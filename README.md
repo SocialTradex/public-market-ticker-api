@@ -55,7 +55,7 @@
 > ```
 
 - #### Spot Ticker
-> Endpoint: ``GET:{apiBase}/spot/assets``
+> Endpoint: ``GET:{apiBase}/spot/ticker``
 >
 > Example Response:
 > ```
